@@ -17,7 +17,7 @@ Add this skill to your Claude Code configuration:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/feishu-webhook-skill.git
+git clone https://github.com/viktorxhzj/feishu-webhook-skill.git
 
 # Add to your Claude Code skills directory
 ```
@@ -49,7 +49,7 @@ The `scripts/upload_image.py` tool allows you to upload images to Feishu:
 pip install requests requests-toolbelt
 
 # Upload an image
-python scripts/upload_image.py ./image.png --token YOUR_TOKEN
+python scripts/upload_image.py ./image.png --token <your_token>
 ```
 
 Supported formats: JPG, JPEG, PNG, WEBP, GIF, BMP, ICO, TIFF, HEIC

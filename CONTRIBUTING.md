@@ -34,7 +34,7 @@ Thank you for your interest in contributing to this project!
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/feishu-webhook-skill.git
+git clone https://github.com/viktorxhzj/feishu-webhook-skill.git
 cd feishu-webhook-skill
 
 # Install Python dependencies (for upload script)
